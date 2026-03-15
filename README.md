@@ -28,11 +28,3 @@ This profile is where I share projects I'm building, experiments I'm running, an
 • Always learning, building, and improving  
 • Focused on creating impactful technology
 
----
-
-## 🚀 Current Focus
-
-• Building innovative web platforms  
-• Learning advanced cybersecurity concepts  
-• Developing scalable digital products  
-• Exploring automation and modern software architecture
